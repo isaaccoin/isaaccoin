@@ -1,0 +1,4 @@
+obj/version.o: version.cpp version.h clientversion.h \
+ /home/mohaxars/source_code/isaaccoin/src/obj/build.h
+version.cpp version.h clientversion.h :
+ /home/mohaxars/source_code/isaaccoin/src/obj/build.h :
